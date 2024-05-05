@@ -69,7 +69,7 @@ With a curated collection of sounds, the list provides therapeutic benefits thro
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # [AudioClips](#audioclips)
-Explore short audio clips offering quick insights, tips, and encouragement for mental well-being.
+Explore short audio clips offering quick insights, tips, and encouragement for mental well-being.</br>
     - [Mindful Minute by Headspace](https://www.youtube.com/watch?v=c1Ndym-IsQg): Experience a moment of mindfulness with this daily one-minute meditation provided by Headspace. </br>
     - [Daily Calm by Calm](https://www.youtube.com/watch?v=ZToicYcHIOU): Tune in to Daily Calm for a short, guided meditation designed to bring tranquility and mindfulness to your day.</br>
     - [Tiny Leaps, Big Changes by Gregg Clunis](https://tlbc.co/tiny-leaps-big-changes/): Explore brief episodes offering actionable advice and insights for personal growth, mindfulness, and well-being. </br>
@@ -88,7 +88,7 @@ Read articles covering various aspects of mental health, including tips for copi
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # [Applications](#applications)
-Discover recommended mobile applications designed to support mental health and well-being.
+Discover recommended mobile applications designed to support mental health and well-being.</br>
     - [Headspace](https://www.headspace.com/): A popular app offering guided meditation sessions, mindfulness exercises, and sleep aids. It's suitable for beginners and experienced practitioners alike. </br>
     - [Calm](https://www.calm.com/): Known for its soothing nature sounds, guided meditations, and mindfulness exercises, Calm helps users reduce stress, improve sleep, and enhance overall well-being.</br>
     - [Insight Timer](https://insighttimer.com/): This app provides a vast library of free guided meditations, music tracks, and talks from mindfulness experts worldwide. Users can customize their meditation experience based on their preferences.</br>
