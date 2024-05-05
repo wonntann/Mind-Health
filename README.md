@@ -104,38 +104,15 @@ Discover recommended mobile applications designed to support mental health and w
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # [Courses](#courses)
-Enroll in online courses focused on mental health awareness, coping strategies, and self-care techniques.
-    - Sure, here's a list of meditation courses with descriptions and active links:
+Enroll in online courses focused on mental health awareness, coping strategies, and self-care techniques. Here's a list of meditation courses:
+    - [**Mindfulness-Based Stress Reduction (MBSR) by Jon Kabat-Zinn**](https://www.mindfulnesscds.com/collections/mindfulness-meditation-by-jon-kabat-zinn): This course teaches mindfulness meditation techniques to manage stress and improve overall well-being. It includes guided meditations, mindful movement, and practical exercises.
+    - [**Transcendental Meditation (TM) Course**](https://www.tm.org/): TM is a technique where practitioners repeat a mantra to achieve a state of deep relaxation and clarity. This course provides personalized instruction and ongoing support.
+    - [**Headspace: Learn to Meditate Course**](https://www.headspace.com/meditation-101/what-is-meditation): Headspace offers a comprehensive introduction to meditation, covering various techniques such as mindfulness, visualization, and breathing exercises. The course is designed for beginners.
+    - [**Insight Meditation (Vipassana) Course**](https://www.dhamma.org/en/index): Insight meditation emphasizes awareness of the present moment and the impermanent nature of reality. This course teaches traditional Vipassana techniques, including breath awareness and body scanning.
+    - [**The Science of Happiness by UC Berkeley (Including Meditation)**](https://www.edx.org/professional-certificate/uc-berkeleyx-science-of-happiness): This course explores the science behind happiness and well-being, incorporating evidence-based practices such as mindfulness meditation. Participants learn practical strategies for leading a more fulfilling life.
+    - [**Zen Meditation Course**](https://www.zenways.org/): Zen meditation, or Zazen, focuses on sitting meditation to cultivate mindfulness and insight. This course introduces participants to Zen principles and provides guidance on posture, breathing, and concentration.
+    - [**Loving-Kindness Meditation Course**](https://www.tarabrach.com/guided-meditations/): Loving-kindness meditation, or Metta, aims to cultivate compassion and goodwill towards oneself and others. This course offers guided practices to develop feelings of love, kindness, and forgiveness.
 
-1. **Mindfulness-Based Stress Reduction (MBSR) by Jon Kabat-Zinn**
-   - Description: This course teaches mindfulness meditation techniques to manage stress and improve overall well-being. It includes guided meditations, mindful movement, and practical exercises.
-   - [Link](https://www.mindfulnesscds.com/collections/mindfulness-meditation-by-jon-kabat-zinn)
-
-2. **Transcendental Meditation (TM) Course**
-   - Description: TM is a technique where practitioners repeat a mantra to achieve a state of deep relaxation and clarity. This course provides personalized instruction and ongoing support.
-   - [Link](https://www.tm.org/)
-
-3. **Headspace: Learn to Meditate Course**
-   - Description: Headspace offers a comprehensive introduction to meditation, covering various techniques such as mindfulness, visualization, and breathing exercises. The course is designed for beginners.
-   - [Link](https://www.headspace.com/meditation-101/what-is-meditation)
-
-4. **Insight Meditation (Vipassana) Course**
-   - Description: Insight meditation emphasizes awareness of the present moment and the impermanent nature of reality. This course teaches traditional Vipassana techniques, including breath awareness and body scanning.
-   - [Link](https://www.dhamma.org/en/index)
-
-5. **The Science of Happiness by UC Berkeley (Including Meditation)**
-   - Description: This course explores the science behind happiness and well-being, incorporating evidence-based practices such as mindfulness meditation. Participants learn practical strategies for leading a more fulfilling life.
-   - [Link](https://www.edx.org/professional-certificate/uc-berkeleyx-science-of-happiness)
-
-6. **Zen Meditation Course**
-   - Description: Zen meditation, or Zazen, focuses on sitting meditation to cultivate mindfulness and insight. This course introduces participants to Zen principles and provides guidance on posture, breathing, and concentration.
-   - [Link](https://www.zenways.org/)
-
-7. **Loving-Kindness Meditation Course**
-   - Description: Loving-kindness meditation, or Metta, aims to cultivate compassion and goodwill towards oneself and others. This course offers guided practices to develop feelings of love, kindness, and forgiveness.
-   - [Link](https://www.tarabrach.com/guided-meditations/)
-
-These courses offer a range of meditation techniques suitable for beginners and experienced practitioners alike. Feel free to explore them and find one that resonates with you!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # [Training](#training)
@@ -146,11 +123,6 @@ Access training resources aimed at promoting mental health literacy and providin
 # [Extra Reading](#extra-reading)
 Find additional resources, including books, research papers, and blog posts, for further exploration of mental health topics.
     - 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-# Troubleshooting
-- If running into permission erros, add **sudo** infront of your commnd
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 # Contributing
